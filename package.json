@@ -1,6 +1,6 @@
 {
   "name": "types-opus-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript definitions for opus-recorder",
   "homepage": "https://github.com/KenjiGinjo/types-opus-recorder",
   "license": "MIT",
